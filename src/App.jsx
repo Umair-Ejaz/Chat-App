@@ -4,7 +4,7 @@ import ChatApp from './ChatApp';
 function App() {
   return (
     <div className="App">
-      <h1>Simple Chat App</h1>
+      <h1> Chat App</h1>
       <ChatApp />
     </div>
   );
